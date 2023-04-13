@@ -1,0 +1,72 @@
+{
+    "snippets": [
+        {
+            "title": "Afrobeats to the World, <span class=\"primary-gradient-text\">Royalties</span> in Your Wallet!",
+            "body": "With MusicSplit, you can now gain access to previously unavailable royalty assets when you buy portions and invest in your favorite Artists' upcoming projects. It's a win for all; your Fav gets the required funding to create great music for your enjoyment and you earn passive income and high-yielding returns by investing in their royalty streams. <br />What's better than listening to great music? Earning royalties while listening to great music!",
+            "image": "/musicsplit-1.png",
+            "cta": "Invest now",
+            "action": "open-app"
+        },
+        {
+            "title": "<span class=\"primary-gradient-text\">Secure</span> your Artistic Freedom",
+            "body": "Maintaining control over your creative vision and the rights to your music is critical as an artist. Traditional record deals frequently require you to sign away a huge portion of your royalties and taking an advance can mean foregoing long-term earnings for short-term financial gain. But there is a better option: MusicSplit on the ARTSPIT app allows you to raise funds by offering your fans a portion of your royalty stream. This approach will enable you to retain control over your music while benefiting financially from your fanbase.",
+            "image": "/musicsplit-2.png",
+            "cta": "Create a Free Account!",
+            "action": "open-app"
+        }
+    ],
+
+    "socialProof": {
+        "title": "Why MusicSplit?",
+        "body": "MusicSplit is redefining music ownership. On ARTSPLIT, investing in music is simple, safe and secure. Earned royalties are paid monthly in your ARTSPLIT wallet. Get Started on ARTSPLIT app and build your music royalties portfolio",
+        "proofs": [
+            {
+                "data": "$13.40Bn",
+                "caption": "Music Streaming revenues in 2020"
+            },
+            {
+                "data": "83%",
+                "caption": "Music Industry Revenue comes from Streaming"
+            },
+            {
+                "data": "$15.22BN",
+                "caption": "Projected 2023 Music Streaming Revenue"
+            },
+            {
+                "data": "363+ Million",
+                "caption": "Subscribers across Spotify, Apple, Amazon, and Youtube"
+            },
+            {
+                "data": "5.51%",
+                "caption": "Annual growth rate of global streaming income"
+            },
+            {
+                "data": "$16.05BN",
+                "caption": "Projected 2027 Music Streaming Revenue"
+            }
+        ],
+        "cta": "Get Started"
+    },
+
+    "why": {
+        "title": "Why you Should Have Royalties in Your Portfolio?",
+        "body": "As an investor, you are always on the lookout for ways to protect your capital while increasing your yield. Lots of other investors like you also seek diversification through alternative investment because stocks, bonds and other similar investment assets can be vulnerable to macroeconomic trends. Music royalties are a fantastic option. The artiste creates the asset once and you collect royalties on it indefinitely from the streaming revenue.",
+        "list": [
+            {
+                "title": "Uncorrelated Asset",
+                "icon": "/icons/folder.svg",
+                "body": "Because they operate independently of public markets, music royalties are the purest form of alternative investment"
+            },
+            {
+                "title": "Passive Income",
+                "icon": "/icons/income.svg",
+                "body": "Earn royalties from as the music is streamed from all over the world without any additional effort."
+            },
+            {
+                "title": "High Yield",
+                "icon": "/icons/cash-plus.svg",
+                "body": "Music royalties have a history of high earnings (avg. ROI of 10%) and the potential to deliver double-digit yields that compete with bonds and dividend-paying stocks."
+            }
+        ]
+    }
+}

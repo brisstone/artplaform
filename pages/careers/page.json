@@ -1,0 +1,24 @@
+{
+    "reasons": [
+        {
+            "title": "Continuous Learning",
+            "icon": "/icons/teacher.svg",
+            "body": "We are going fast, hence creating opportunities to learn everyday."
+        },
+        {
+            "title": "Opportunity to Grow",
+            "icon": "/icons/status-up.svg",
+            "body": "We offer many possibilities to collaborate with co-workers having different expertise."
+        },
+        {
+            "title": "Inclusive Workplace",
+            "icon": "/icons/people.svg",
+            "body": "We believe in a culture that value the unique perspective & skills that our team brings to work."
+        },
+        {
+            "title": "Remote Working",
+            "icon": "/icons/global.svg",
+            "body": "We encourage our team to work remotely according to their convenience."
+        }
+    ]
+}

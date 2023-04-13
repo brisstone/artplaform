@@ -1,0 +1,63 @@
+.container {
+  padding: 0 10rem;
+}
+
+.main {
+  min-height: 100vh;
+  padding: 4rem 0;
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.h1 {
+  font-size: 30px;
+  margin-bottom: 2rem;
+  margin-top: 2rem;
+  font-weight: bold;
+  color: #be7136;
+}
+.h2 {
+  font-size: 18px;
+  font-weight: bold;
+  margin-bottom: 1.5rem;
+  margin-top: 1.5rem;
+  color: #1890ff;
+  text-transform: uppercase;
+}
+
+.h3 {
+  font-size: 23px;
+  font-weight: bold;
+  margin-bottom: 1.5rem;
+  margin-top: 1.5rem;
+  color: #be7136;
+  text-transform: uppercase;
+}
+
+.h4 {
+  font-weight: bold;
+  font-size: 16px;
+  margin-bottom: 0.5rem;
+  margin-top: 1rem;
+  text-transform: uppercase;
+}
+
+.p {
+  font-size: 16px;
+  margin-bottom: 15px;
+  color: #333;
+}
+
+.ul {
+  margin-left: 2rem;
+}
+.divider {
+  margin: 4rem 0;
+  border-bottom-width: 5px;
+  border-style: solid;
+  border-bottom-color: #000;
+  opacity: 1;
+}
